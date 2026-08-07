@@ -46,8 +46,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=CBA6F7&center=false&vCenter=true&width=400&height=45&lines=GitHub+Stats" />
  
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=BernadetteAx&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&hide_rank=true" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BernadetteAx&layout=compact&theme=catppuccin_mocha&hide_border=true" /> 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=BernadetteAx&theme=catppuccin-mocha&hide_border=true&card_width=280" /> </p> <br>
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=BernadetteAx&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&hide_rank=true" /> <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BernadetteAx&layout=compact&theme=catppuccin_mocha&hide_border=true" /> 
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=BernadetteAx&theme=catppuccin-mocha&hide_border=true&card_width=280" /> </p> <br>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CBA6F7&height=100&section=footer" />
