@@ -15,23 +15,18 @@
 -  Languages: Python, Java, C, JavaScript, HTML/CSS, SQL
 -  Enjoy frontend dev, game dev, and UI/UX design
 
-
-<br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=CBA6F7&center=false&vCenter=true&width=400&height=45&lines=Currently+Working+On" />
  
 -  **CITS3200**  building a browser-based multiplayer game as a capstone project for a client
 -  **CITS3006**  coursework project
-
-<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=CBA6F7&center=false&vCenter=true&width=400&height=45&lines=Tech+Stack" />
  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,java,c,js,html,css,mysql,nodejs,kali,linux,git,vscode&theme=dark" />
 </p>
- 
-<br>
+
+</br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=CBA6F7&center=false&vCenter=true&width=400&height=45&lines=Focus+Areas" />
  
@@ -41,6 +36,8 @@
   <img src="https://img.shields.io/badge/Compliance-Essential%208-a6e3a1?style=for-the-badge&labelColor=1e1e2e" /> 
   <img src="https://img.shields.io/badge/Security-Network%20Security-fab387?style=for-the-badge&labelColor=1e1e2e" /> 
 </p>
+
+</br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=CBA6F7&center=false&vCenter=true&width=400&height=45&lines=GitHub+Stats" />
 
