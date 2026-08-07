@@ -20,8 +20,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=CBA6F7&center=false&vCenter=true&width=400&height=45&lines=Currently+Working+On" />
  
--  **CITS3200** — building a browser-based multiplayer game as a capstone project for a client
--  **CITS3006** — coursework project
+-  **CITS3200**  building a browser-based multiplayer game as a capstone project for a client
+-  **CITS3006**  coursework project
 
 <br>
 
