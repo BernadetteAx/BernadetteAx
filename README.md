@@ -40,14 +40,13 @@
   <img src="https://img.shields.io/badge/Security-IDS%20%2F%20IPS-89b4fa?style=for-the-badge&labelColor=1e1e2e" /> 
   <img src="https://img.shields.io/badge/Compliance-Essential%208-a6e3a1?style=for-the-badge&labelColor=1e1e2e" /> 
   <img src="https://img.shields.io/badge/Security-Network%20Security-fab387?style=for-the-badge&labelColor=1e1e2e" /> 
-  <img src="https://img.shields.io/badge/Standard-OWASP-f9e2af?style=for-the-badge&labelColor=1e1e2e" /> 
 </p>
 
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=CBA6F7&center=false&vCenter=true&width=400&height=45&lines=GitHub+Stats" />
  
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=BernadetteAx&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BernadetteAx&layout=compact&theme=catppuccin_mocha&hide_border=true" /> 
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=BernadetteAx&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&hide_rank=true" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BernadetteAx&layout=compact&theme=catppuccin_mocha&hide_border=true" /> 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=BernadetteAx&theme=catppuccin-mocha&hide_border=true&card_width=280" /> </p> <br>
 
 <div align="center">
