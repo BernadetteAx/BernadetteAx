@@ -5,9 +5,9 @@
           じしˍ,)ノ
 </pre>
 
-<div align="center">
+<div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I%27m+Bernadette;CS+%26+Cybersecurity+Student+%40+UWA;Aspiring+Security+Engineer;%26+Game+Developer;Currently+Interning+%40+INCUB8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=CBA6F7&center=false&vCenter=true&width=500&lines=Hi+there%2C+I%27m+Bernadette;CS+%26+Cybersecurity+Student+%40+UWA;Aspiring+Security+Engineer;%26+Game+Developer;Currently+Interning+%40+INCUB8)](https://git.io/typing-svg)
 
 </div>
  
