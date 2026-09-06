@@ -104,29 +104,6 @@
 
 <div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&height=50&lines=%3E%3E+SECURITY+//+NETWORKS" />
-
-<pre>
-╔══════════════════════════════════════════════════════════════╗
-║  Security + Compliance                                       ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  > Security                                                   ║
-║                                                              ║
-║  Pentesting                                                  ║
-║  IDS / IPS                                                    ║
-║  Essential 8                                                 ║
-║                                                              ║
-║  > Compliance                                                 ║
-║                                                              ║
-║  Network Security                                             ║
-╚══════════════════════════════════════════════════════════════╝
-</pre>
-
-</div>
-
-<div align="left">
-
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&height=50&lines=%3E%3E+GITHUB+STATS;%5B+NETWORK+ACTIVITY+%5D;SCANNING+REPOSITORIES...;ANALYSING+ACTIVITY...;CONNECTION+SECURE." />
 
 <p> <img height="160" src="https://github-stats-extended.vercel.app/api?username=BernadetteAx&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&hide_rank=true" /> <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=BernadetteAx&theme=catppuccin-mocha&hide_border=true&card_width=180" /> </p>
