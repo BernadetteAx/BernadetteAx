@@ -41,7 +41,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 </pre>
 
-<div align="center">
+<div align="left">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=ACCESSING+USER_PROFILE...;IDENTITY%3A+BERNADETTE;STATUS%3A+ONLINE;SPECIALISATION%3A+CYBERSECURITY+%2F+SOFTWARE)
 
@@ -66,7 +66,7 @@
 └──────────────────────────────────────────────────────────────┘
 </pre>
           
-<div align="center">
+<div align="left">
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&height=50&lines=%3E%3E+CURRENTLY+WORKING+ON" />
 
@@ -93,16 +93,16 @@
 └──────────────────────────────────────────────────────────────┘
 </pre>
           
-<div align="center">
+<div align="left">
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&height=50&lines=%3E%3E+TOOlS+OF+THE+TRADE" />
 
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=py,java,c,js,html,css,mysql,nodejs,kali,linux,git,vscode&theme=dark" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=py,java,c,js,html,css,mysql,nodejs,kali,linux,git,vscode&theme=dark" /> </p>
 
 </div>
 
-<div align="center">
+<div align="left">
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&height=50&lines=%3E%3E+SECURITY+//+NETWORKS" />
 
@@ -125,7 +125,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&height=50&lines=%3E%3E+GITHUB+STATS;%5B+NETWORK+ACTIVITY+%5D;SCANNING+REPOSITORIES...;ANALYSING+ACTIVITY...;CONNECTION+SECURE." />
 
