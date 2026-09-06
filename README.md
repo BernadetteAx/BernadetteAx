@@ -47,10 +47,10 @@
 
 </div>
 
-### `> ABOUT_ME`
-
 <pre>
 ┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  >  ABOUT ME                                                 │
 │                                                              │
 │  [+] Into penetration testing, IDS, Web/Game Development     │
 │      and the ACSC Essential Eight                            │
