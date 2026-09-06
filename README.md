@@ -87,9 +87,8 @@
           
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&height=50&lines=%3E%3E+TECH+STACK" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&height=50&lines=%3E%3E+TOOlS+OF+THE+TRADE" />
 
-<pre> [ TOOLS OF THE TRADE ] </pre>
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=py,java,c,js,html,css,mysql,nodejs,kali,linux,git,vscode&theme=dark" /> </p>
 
@@ -97,27 +96,36 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&height=50&lines=%3E%3E+FOCUS+AREAS" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&height=50&lines=%3E%3E+SECURITY+//+NETWORKS" />
 
-<pre> SECURITY // NETWORKS </pre>
-
-<p align="center"> <img src="https://img.shields.io/badge/Security-Pen%20Testing-cba6f7?style=for-the-badge&labelColor=1e1e2e" /> <img src="https://img.shields.io/badge/Security-IDS%20%2F%20IPS-89b4fa?style=for-the-badge&labelColor=1e1e2e" /> <img src="https://img.shields.io/badge/Compliance-Essential%208-a6e3a1?style=for-the-badge&labelColor=1e1e2e" /> <img src="https://img.shields.io/badge/Security-Network%20Security-fab387?style=for-the-badge&labelColor=1e1e2e" /> </p>
+<pre>
+╔══════════════════════════════════════════════════════════════╗
+║  Security + Compliance                                       ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  > Security                                                   ║
+║                                                              ║
+║  Pentesting                                                  ║
+║  IDS / IPS                                                    ║
+║  Essential 8                                                 ║
+║                                                              ║
+║  > Compliance                                                 ║
+║                                                              ║
+║  Network Security                                             ║
+╚══════════════════════════════════════════════════════════════╝
+</pre>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&height=50&lines=%3E%3E+GITHUB+STATS" />
-
-<pre> [ NETWORK ACTIVITY ] SCANNING REPOSITORIES... ANALYSING ACTIVITY... CONNECTION SECURE. </pre>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&height=50&lines=%3E%3E+GITHUB+STATS;%5B+NETWORK+ACTIVITY+%5D;SCANNING+REPOSITORIES...;ANALYSING+ACTIVITY...;CONNECTION+SECURE." />
 
 <p> <img height="160" src="https://github-stats-extended.vercel.app/api?username=BernadetteAx&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&hide_rank=true" /> <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BernadetteAx&layout=compact&theme=catppuccin_mocha&hide_border=true" /> <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=BernadetteAx&theme=catppuccin-mocha&hide_border=true&card_width=280" /> </p>
 
 </div>
 
 <div align="center">
-
-<pre> ╔══════════════════════════════════════════════════════════════╗ ║ ║ ║ THE WEB ║ ║ ║ ║ \ | / | / ║ ║ \ | / | / ║ ║ \ | / | / ║ ║ \ | / | / ║ ║ ----\---*---/-----------*---/---- ║ ║ \ | / / | ║ ║ \ | / / | ║ ║ \|/ / | ║ ║ --------*---------/----*-------- ║ ║ / | \ / | ║ ║ / | \ / | ║ ║ / | \ / | ║ ║ / | \ / | ║ ║ / | * | ║ ║ ║ ║ YOU ARE NOW ║ ║ INSIDE THE WEB ║ ║ ║ ║ /\_/\ ║ ║ / o o \ ║ ║ ( ^ ) ║ ║ \ \_/ / ║ ║ `---' ║ ║ ║ ╚══════════════════════════════════════════════════════════════╝ </pre>
 
 <pre> [ EOF ] CONNECTION CLOSED. SESSION TERMINATED. </pre>
 
