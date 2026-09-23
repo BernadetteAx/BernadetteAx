@@ -78,7 +78,7 @@
 │  Building a browser-based multiplayer game as a capstone     │
 │  project for a client.                                      │
 │                                                              │
-│  STATUS :: ███████████░░░░░░░  IN PROGRESS                  │
+│  STATUS :: ███████████████░░░  IN PROGRESS                  │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 </pre>
