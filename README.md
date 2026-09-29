@@ -86,9 +86,9 @@
 <pre>
 ┌─[ <a href="https://github.com/BernadetteAx/CITS3006-Project">CITS3006</a> ]──────────────────────────────────────────────────┐
 │                                                              │
-│  Coursework project.                                         │
+│  Coursework project.                                        │
 │                                                              │
-│  STATUS :: █████████████░░░░  IN PROGRESS                  │
+│  STATUS :: █████████████░░░░░  IN PROGRESS                  │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 </pre>
